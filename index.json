@@ -1,0 +1,11 @@
+{
+  "org": "scrapy-plugins",
+  "repo": "scrapy-splash",
+  "versions": [
+    {
+      "commit": "72a8788212746b938e1e4d45aad56ff27857924a",
+      "tag": "0.11.1",
+      "parsed_at": "2026-10-15T14:22:53.886170+00:00"
+    }
+  ]
+}
